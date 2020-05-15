@@ -1,8 +1,19 @@
 #evaluation {
-    color: red;
+    color: #b3daff;
   text-align: center;
-   font-size: 16px;
+   font-size: Large;
 }
 h1 {
   color: green;
+  text-align: center;
+}
+#filetypes {
+    color: #b3daff;
+  text-align: center;
+   font-size: Large;
+}
+p {
+  background-color: #ff99ff;
+  text-align: justify;
+  font-size: 100%;
 }
