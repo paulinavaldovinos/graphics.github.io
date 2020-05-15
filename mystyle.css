@@ -14,9 +14,10 @@ h1 {
    font-size:  30px;
 }
 p {
-   text-align: center;
+   text-align: justify;
    font-size: 25px;
 }
 a:link {
   background-color: #99ddff;
+  text-align: center;
 }
