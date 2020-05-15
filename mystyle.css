@@ -17,3 +17,6 @@ p {
    text-align: center;
    font-size: 25px;
 }
+a:link {
+  background-color: #99ddff;
+}
